@@ -1,0 +1,14 @@
+---
+title: "Kirjeldused"
+author: "Peeter Kuusik"
+date: 2021-06-29T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Tegelikult....
+Kuna preagu ei ole mõtet ära rikkuda üllatust ja oma sõjaplaane avalaldada siis tuleb siia sisu vahetult enne algust
