@@ -1,21 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>R Markdown on Peetri-Liina-Osirise Rajala restoran</title>
-    <link>https://plora.netlify.app/tags/r-markdown/</link>
-    <description>Recent content in R Markdown on Peetri-Liina-Osirise Rajala restoran</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jun 2021 21:13:14 -0500</lastBuildDate><atom:link href="https://plora.netlify.app/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kirjeldused</title>
-      <link>https://plora.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 29 Jun 2021 21:13:14 -0500</pubDate>
-      
-      <guid>https://plora.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
-      <description>Tegelikult….Kuna preagu ei ole mõtet ära rikkuda üllatust ja oma sõjaplaane avalaldada siis tuleb siia sisu vahetult enne algust
-</description>
-    </item>
-    
-  </channel>
-</rss>
